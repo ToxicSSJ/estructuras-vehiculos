@@ -6,7 +6,7 @@ Este proyecto fue creado con la finalidad de desarrollar un algoritmo capaz de a
 ## Acerca del Algoritmo
 
 > **Tipo:** Grafo con Matrices de Adyacencia\
-> **Complejidad:** Mejor y peor caso es O(n * n)
+> **Complejidad:** Peor caso es O(n * n)
 
 ## Uso del Proyecto
 
